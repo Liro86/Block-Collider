@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: 15a94a26a65ea4a43b1b8edd32a0043c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Foot
+    100004: Bip01 Hea0
+    100006: Bip01 Head
+    100008: Bip01 L 10
+    100010: Bip01 L 11
+    100012: Bip01 L Ca
+    100014: Bip01 L Cl
+    100016: Bip01 L F0
+    100018: Bip01 L F1
+    100020: Bip01 L F2
+    100022: Bip01 L F3
+    100024: Bip01 L F4
+    100026: Bip01 L F5
+    100028: Bip01 L F6
+    100030: Bip01 L F7
+    100032: Bip01 L F8
+    100034: Bip01 L F9
+    100036: Bip01 L Fi
+    100038: Bip01 L Fo
+    100040: Bip01 L Ha
+    100042: Bip01 L T0
+    100044: Bip01 L Th
+    100046: Bip01 L To
+    100048: Bip01 L Up
+    100050: Bip01 Neck
+    100052: Bip01 Pelv
+    100054: Bip01 R 10
+    100056: Bip01 R 11
+    100058: Bip01 R Ca
+    100060: Bip01 R Cl
+    100062: Bip01 R F0
+    100064: Bip01 R F1
+    100066: Bip01 R F2
+    100068: Bip01 R F3
+    100070: Bip01 R F4
+    100072: Bip01 R F5
+    100074: Bip01 R F6
+    100076: Bip01 R F7
+    100078: Bip01 R F8
+    100080: Bip01 R F9
+    100082: Bip01 R Fi
+    100084: Bip01 R Fo
+    100086: Bip01 R Ha
+    100088: Bip01 R T0
+    100090: Bip01 R Th
+    100092: Bip01 R To
+    100094: Bip01 R Up
+    100096: Bip01 Spi0
+    100098: Bip01 Spin
+    100100: Bottom eye
+    100102: bottom eye
+    100104: Hair1
+    100106: Hair10
+    100108: Hair2
+    100110: Hair3
+    100112: Hair4
+    100114: Hair5
+    100116: Hair6
+    100118: Hair7
+    100120: Hair8
+    100122: Hair9
+    100124: Left butto
+    100126: Left eye
+    100128: Left shoe
+    100130: Overalls
+    100132: Plane01
+    100134: Right butt
+    100136: Right eye
+    100138: Right Han0
+    100140: Right Hand
+    100142: Right shoe
+    100144: Shirt
+    100146: //RootNode
+    100148: Stewie H10
+    100150: Stewie H11
+    100152: Stewie H12
+    100154: Stewie H13
+    100156: Stewie H14
+    100158: Stewie H15
+    100160: Stewie H16
+    100162: Stewie He0
+    100164: Stewie He1
+    100166: Stewie He2
+    100168: Stewie He3
+    100170: Stewie He4
+    100172: Stewie He5
+    100174: Stewie He6
+    100176: Stewie He7
+    100178: Stewie He8
+    100180: Stewie He9
+    100182: Stewie Hea
+    100184: Top eye li
+    100186: top eye li
+    100188: TPhotomet0.target
+    100190: TPhotometr.target
+    400000: Bip01
+    400002: Bip01 Foot
+    400004: Bip01 Hea0
+    400006: Bip01 Head
+    400008: Bip01 L 10
+    400010: Bip01 L 11
+    400012: Bip01 L Ca
+    400014: Bip01 L Cl
+    400016: Bip01 L F0
+    400018: Bip01 L F1
+    400020: Bip01 L F2
+    400022: Bip01 L F3
+    400024: Bip01 L F4
+    400026: Bip01 L F5
+    400028: Bip01 L F6
+    400030: Bip01 L F7
+    400032: Bip01 L F8
+    400034: Bip01 L F9
+    400036: Bip01 L Fi
+    400038: Bip01 L Fo
+    400040: Bip01 L Ha
+    400042: Bip01 L T0
+    400044: Bip01 L Th
+    400046: Bip01 L To
+    400048: Bip01 L Up
+    400050: Bip01 Neck
+    400052: Bip01 Pelv
+    400054: Bip01 R 10
+    400056: Bip01 R 11
+    400058: Bip01 R Ca
+    400060: Bip01 R Cl
+    400062: Bip01 R F0
+    400064: Bip01 R F1
+    400066: Bip01 R F2
+    400068: Bip01 R F3
+    400070: Bip01 R F4
+    400072: Bip01 R F5
+    400074: Bip01 R F6
+    400076: Bip01 R F7
+    400078: Bip01 R F8
+    400080: Bip01 R F9
+    400082: Bip01 R Fi
+    400084: Bip01 R Fo
+    400086: Bip01 R Ha
+    400088: Bip01 R T0
+    400090: Bip01 R Th
+    400092: Bip01 R To
+    400094: Bip01 R Up
+    400096: Bip01 Spi0
+    400098: Bip01 Spin
+    400100: Bottom eye
+    400102: bottom eye
+    400104: Hair1
+    400106: Hair10
+    400108: Hair2
+    400110: Hair3
+    400112: Hair4
+    400114: Hair5
+    400116: Hair6
+    400118: Hair7
+    400120: Hair8
+    400122: Hair9
+    400124: Left butto
+    400126: Left eye
+    400128: Left shoe
+    400130: Overalls
+    400132: Plane01
+    400134: Right butt
+    400136: Right eye
+    400138: Right Han0
+    400140: Right Hand
+    400142: Right shoe
+    400144: Shirt
+    400146: //RootNode
+    400148: Stewie H10
+    400150: Stewie H11
+    400152: Stewie H12
+    400154: Stewie H13
+    400156: Stewie H14
+    400158: Stewie H15
+    400160: Stewie H16
+    400162: Stewie He0
+    400164: Stewie He1
+    400166: Stewie He2
+    400168: Stewie He3
+    400170: Stewie He4
+    400172: Stewie He5
+    400174: Stewie He6
+    400176: Stewie He7
+    400178: Stewie He8
+    400180: Stewie He9
+    400182: Stewie Hea
+    400184: Top eye li
+    400186: top eye li
+    400188: TPhotomet0.target
+    400190: TPhotometr.target
+    2100000: 17 - Default
+    2100002: Shoes
+    2100004: 16 - Default
+    2100006: Stewie Skin
+    2100008: Hair eyebrow
+    2100010: Teeth
+    2100012: Tongue
+    2100014: Eye
+    2300000: Bip01
+    2300002: Bip01 Foot
+    2300004: Bip01 Head
+    2300006: Bip01 L 11
+    2300008: Bip01 L Ca
+    2300010: Bip01 L Cl
+    2300012: Bip01 L F0
+    2300014: Bip01 L F2
+    2300016: Bip01 L F3
+    2300018: Bip01 L F5
+    2300020: Bip01 L F6
+    2300022: Bip01 L F8
+    2300024: Bip01 L F9
+    2300026: Bip01 L Fi
+    2300028: Bip01 L Fo
+    2300030: Bip01 L Ha
+    2300032: Bip01 L Th
+    2300034: Bip01 L To
+    2300036: Bip01 L Up
+    2300038: Bip01 Neck
+    2300040: Bip01 Pelv
+    2300042: Bip01 R 11
+    2300044: Bip01 R Ca
+    2300046: Bip01 R Cl
+    2300048: Bip01 R F0
+    2300050: Bip01 R F2
+    2300052: Bip01 R F3
+    2300054: Bip01 R F5
+    2300056: Bip01 R F6
+    2300058: Bip01 R F8
+    2300060: Bip01 R F9
+    2300062: Bip01 R Fi
+    2300064: Bip01 R Fo
+    2300066: Bip01 R Ha
+    2300068: Bip01 R Th
+    2300070: Bip01 R To
+    2300072: Bip01 R Up
+    2300074: Bip01 Spi0
+    2300076: Bip01 Spin
+    2300078: Bottom eye
+    2300080: bottom eye
+    2300082: Hair1
+    2300084: Hair10
+    2300086: Hair2
+    2300088: Hair3
+    2300090: Hair4
+    2300092: Hair5
+    2300094: Hair6
+    2300096: Hair7
+    2300098: Hair8
+    2300100: Hair9
+    2300102: Left butto
+    2300104: Left eye
+    2300106: Left shoe
+    2300108: Overalls
+    2300110: Plane01
+    2300112: Right butt
+    2300114: Right eye
+    2300116: Right Han0
+    2300118: Right Hand
+    2300120: Right shoe
+    2300122: Shirt
+    2300124: Stewie H10
+    2300126: Stewie H11
+    2300128: Stewie H12
+    2300130: Stewie H13
+    2300132: Stewie H14
+    2300134: Stewie H15
+    2300136: Stewie H16
+    2300138: Stewie He0
+    2300140: Stewie He1
+    2300142: Stewie He2
+    2300144: Stewie He3
+    2300146: Stewie He4
+    2300148: Stewie He5
+    2300150: Stewie He6
+    2300152: Stewie He7
+    2300154: Stewie He8
+    2300156: Stewie He9
+    2300158: Stewie Hea
+    2300160: Top eye li
+    2300162: top eye li
+    3300000: Bip01
+    3300002: Bip01 Foot
+    3300004: Bip01 Head
+    3300006: Bip01 L 11
+    3300008: Bip01 L Ca
+    3300010: Bip01 L Cl
+    3300012: Bip01 L F0
+    3300014: Bip01 L F2
+    3300016: Bip01 L F3
+    3300018: Bip01 L F5
+    3300020: Bip01 L F6
+    3300022: Bip01 L F8
+    3300024: Bip01 L F9
+    3300026: Bip01 L Fi
+    3300028: Bip01 L Fo
+    3300030: Bip01 L Ha
+    3300032: Bip01 L Th
+    3300034: Bip01 L To
+    3300036: Bip01 L Up
+    3300038: Bip01 Neck
+    3300040: Bip01 Pelv
+    3300042: Bip01 R 11
+    3300044: Bip01 R Ca
+    3300046: Bip01 R Cl
+    3300048: Bip01 R F0
+    3300050: Bip01 R F2
+    3300052: Bip01 R F3
+    3300054: Bip01 R F5
+    3300056: Bip01 R F6
+    3300058: Bip01 R F8
+    3300060: Bip01 R F9
+    3300062: Bip01 R Fi
+    3300064: Bip01 R Fo
+    3300066: Bip01 R Ha
+    3300068: Bip01 R Th
+    3300070: Bip01 R To
+    3300072: Bip01 R Up
+    3300074: Bip01 Spi0
+    3300076: Bip01 Spin
+    3300078: Bottom eye
+    3300080: bottom eye
+    3300082: Hair1
+    3300084: Hair10
+    3300086: Hair2
+    3300088: Hair3
+    3300090: Hair4
+    3300092: Hair5
+    3300094: Hair6
+    3300096: Hair7
+    3300098: Hair8
+    3300100: Hair9
+    3300102: Left butto
+    3300104: Left eye
+    3300106: Left shoe
+    3300108: Overalls
+    3300110: Plane01
+    3300112: Right butt
+    3300114: Right eye
+    3300116: Right Han0
+    3300118: Right Hand
+    3300120: Right shoe
+    3300122: Shirt
+    3300124: Stewie H10
+    3300126: Stewie H11
+    3300128: Stewie H12
+    3300130: Stewie H13
+    3300132: Stewie H14
+    3300134: Stewie H15
+    3300136: Stewie H16
+    3300138: Stewie He0
+    3300140: Stewie He1
+    3300142: Stewie He2
+    3300144: Stewie He3
+    3300146: Stewie He4
+    3300148: Stewie He5
+    3300150: Stewie He6
+    3300152: Stewie He7
+    3300154: Stewie He8
+    3300156: Stewie He9
+    3300158: Stewie Hea
+    3300160: Top eye li
+    3300162: top eye li
+    4300000: Overalls
+    4300002: Left shoe
+    4300004: Right shoe
+    4300006: Shirt
+    4300008: Right Hand
+    4300010: Right Han0
+    4300012: Left butto
+    4300014: Stewie Hea
+    4300016: Hair1
+    4300018: Hair2
+    4300020: Hair3
+    4300022: Hair4
+    4300024: Hair5
+    4300026: Hair6
+    4300028: Hair7
+    4300030: Hair8
+    4300032: Hair9
+    4300034: Hair10
+    4300036: Right eye
+    4300038: top eye li
+    4300040: Bottom eye
+    4300042: Left eye
+    4300044: Top eye li
+    4300046: bottom eye
+    4300048: Right butt
+    4300050: Stewie He0
+    4300052: Stewie He1
+    4300054: Stewie He2
+    4300056: Stewie He3
+    4300058: Stewie He4
+    4300060: Stewie He5
+    4300062: Stewie He6
+    4300064: Stewie He7
+    4300066: Stewie He8
+    4300068: Stewie He9
+    4300070: Stewie H10
+    4300072: Stewie H11
+    4300074: Stewie H12
+    4300076: Stewie H13
+    4300078: Stewie H14
+    4300080: Stewie H15
+    4300082: Stewie H16
+    4300084: Plane01
+    4300086: Bip01
+    4300088: Bip01 Foot
+    4300090: Bip01 Pelv
+    4300092: Bip01 Spin
+    4300094: Bip01 Spi0
+    4300096: Bip01 Neck
+    4300098: Bip01 Head
+    4300100: Bip01 L Cl
+    4300102: Bip01 L Up
+    4300104: Bip01 L Fo
+    4300106: Bip01 L Ha
+    4300108: Bip01 L Fi
+    4300110: Bip01 L F0
+    4300112: Bip01 L F2
+    4300114: Bip01 L F3
+    4300116: Bip01 L F5
+    4300118: Bip01 L F6
+    4300120: Bip01 L F8
+    4300122: Bip01 L F9
+    4300124: Bip01 R Cl
+    4300126: Bip01 R Up
+    4300128: Bip01 R Fo
+    4300130: Bip01 R Ha
+    4300132: Bip01 R Fi
+    4300134: Bip01 R F0
+    4300136: Bip01 R F2
+    4300138: Bip01 R F3
+    4300140: Bip01 R F5
+    4300142: Bip01 R F6
+    4300144: Bip01 R F8
+    4300146: Bip01 R F9
+    4300148: Bip01 L Th
+    4300150: Bip01 L Ca
+    4300152: Bip01 L 11
+    4300154: Bip01 L To
+    4300156: Bip01 R Th
+    4300158: Bip01 R Ca
+    4300160: Bip01 R 11
+    4300162: Bip01 R To
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

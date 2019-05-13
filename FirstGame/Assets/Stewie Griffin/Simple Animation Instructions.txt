@@ -1,0 +1,15 @@
+Animation instructions
+
+Face: Click on the head and then click on the modify tab and then morpher.  
+Here you have access to a number of mouth expressions.  
+
+Eye lids: Select which eyelid you want and select the modify tab scroll down to sphere 
+And adjust the hemisphere option.
+
+Eye dots: Under the eye material in the material editor.  Then select the M next to color. 
+By adjusting the angle on the U V and W options you should be able to move the eye dot to whatever
+Position that you need it at.
+
+The entire body is rigged with a 3ds max biped.
+
+You will only be able to animate stewie if you are using a 3ds max appication 2009 and above.
